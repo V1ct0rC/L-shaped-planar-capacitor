@@ -1,0 +1,1 @@
+# L-shaped-planar-capacitor
